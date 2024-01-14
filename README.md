@@ -1,6 +1,5 @@
 ## Hello! 🦀
 <img alt="Braden Everson's github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=BradenEverson&hide_border=true&hide_title=true&show_icons=true&theme=synthwave">
-Hi, I'm Yuvraj - I'm  a second year undergrad student at Cambridge. I specialise in embedded systems (Raspberry Pi/ARM Cortex-M/PIC-16) but love building full-stack applications. 
 <!--
 **BradenEverson/BradenEverson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
