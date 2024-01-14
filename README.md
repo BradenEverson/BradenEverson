@@ -9,20 +9,20 @@ Currently, I am working on a Rust crate dubbed Triton 🦎. Triton aims to bring
 
 ## Skills
 
-[X] C# (Advanced)
-  [X] ASP.NET
-  [X] Blazor
-  [X] Entity Framework
-  [X] Dependency Injection
-[X] C (Entry Level)
-  [X] CUDA C
-[X] C++ (Intermediate)
-  [X] Algorithm and Data Structure Implementations
-  [X] Inheritence
-[X] Rust (Intermediate)
-  [X] Borrow Checker
-  [X] Traits
-  [X] Enums
-  [X] C Binding
-  [X] Cargo
-  [ ] Macros(learning now!)
+- [X] C# (Advanced)
+  - [X] ASP.NET
+  - [X] Blazor
+  - [X] Entity Framework
+  - [X] Dependency Injection
+- [X] C (Entry Level)
+    - [X] CUDA C
+- [X] C++ (Intermediate)
+  - [X] Algorithm and Data Structure Implementations
+  - [X] Inheritence
+- [X] Rust (Intermediate)
+  - [X] Borrow Checker
+  - [X] Traits
+  - [X] Enums
+  - [X] C Binding
+  - [X] Cargo
+  - [ ] Macros(learning now!)
