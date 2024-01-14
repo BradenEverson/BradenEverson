@@ -1,5 +1,5 @@
 ## I'm Braden Everson
-#### Passionate first year Computer Science student at the Milwaukee School of Engineering(MSOE) with a strong emphasis in Deep Learning and the Rust Programming language
+### Passionate first year Computer Science student at the Milwaukee School of Engineering(MSOE) with a strong emphasis in Deep Learning and the Rust Programming language
 
 |   |   |
 | - | - |
