@@ -1,7 +1,7 @@
 ## I'm Braden Everson
 #### Passionate first year Computer Science student at the Milwaukee School of Engineering(MSOE) with a strong emphasis in Deep Learning and the Rust Programming language
 
-[![Braden Everson's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradenEverson&theme=prussian)]
+![Braden Everson's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradenEverson&theme=prussian)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BradenEverson&theme=prussian&size_weight=0.5&count_weight=0.5&hide=css,html&layout=compact)
 
