@@ -13,7 +13,7 @@ Currently, I am working on a Rust crate dubbed Triton 🦎. Triton aims to bring
   - [X] ASP.NET
   - [X] Blazor
   - [X] Entity Framework
-  - [X] Dependency 
+  - [X] Dependency Injection
   
 - [X] C (Entry Level)
     - [X] CUDA C
