@@ -3,7 +3,7 @@
 
 |   |   |
 | - | - |
-| ![Braden Everson's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradenEverson&theme=prussian)  | ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BradenEverson&theme=prussian&size_weight=0.5&count_weight=0.5&hide=css,html&layout=compact)  |
+| ![Braden Everson's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradenEverson&theme=prussian)  | ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BradenEverson&theme=prussian&size_weight=1&hide=css,html&layout=compact)  |
 
 
 #### I believe in the power of Deep Learning and the future it can provide for all industries. Through creating Neural Network platforms in the form of open source crates in the Rust ecosystem, I believe that I can help in bringing Machine Learning to the forefront of Rust's powers 🦀🦾
