@@ -1,12 +1,12 @@
 ## I'm Braden Everson
 ### Passionate first year Computer Science student at the Milwaukee School of Engineering(MSOE) with a strong emphasis in Deep Learning and the Rust Programming language
 
-![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=00599C)
-![C++](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=00599C)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=00599C)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=00599C)
-![Visual Studio Code](https://img.shields.io/badge/-neovim-333333?style=flat&logo=neovim&logoColor=00599C)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![NeoVIm](https://img.shields.io/badge/-neovim-333333?style=flat&logo=neovim&logoColor=00599C)
 
 |   |   |
 | - | - |
