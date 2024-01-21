@@ -1,6 +1,12 @@
 ## I'm Braden Everson
 ### Passionate first year Computer Science student at the Milwaukee School of Engineering(MSOE) with a strong emphasis in Deep Learning and the Rust Programming language
 
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+![C++](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=00599C)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-neovim-333333?style=flat&logo=neovim&logoColor=007ACC)
+
 |   |   |
 | - | - |
 | ![Braden Everson's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradenEverson&theme=prussian)  | ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BradenEverson&theme=prussian&size_weight=0.5&size_count=0.5&hide=css,html&layout=compact)  |
