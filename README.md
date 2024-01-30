@@ -17,4 +17,6 @@
 
 #### Currently, I am working on a Rust crate named Triton 🦎. Triton aims to bring the ease of the Tensorflow and Keras library into the world of Rust without being a wrapper library. With Rust's low level performance and high level zero-cost abstractions, I believe that Rust truly can become the ML Language of the future 🧠⚙️
 
-#### [Check out Triton!](https://github.com/BradenEverson/triton)
+<!--#### [Check out Triton!](https://github.com/BradenEverson/triton)-->
+
+#### [Check out Triton!](https://crates.io/crates/triton_grow)
