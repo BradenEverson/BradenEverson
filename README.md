@@ -4,7 +4,6 @@
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![NeoVIm](https://img.shields.io/badge/-neovim-333333?style=flat&logo=neovim&logoColor=00599C)
 
 |   |   |
