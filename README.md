@@ -9,7 +9,7 @@
 ![Braden Everson's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradenEverson&theme=prussian)
 
 
-#### I believe in the power of Machine Learning and the future it can provide for all industries. Through creating Neural Network platforms in the form of open source crates in the Rust ecosystem, I believe that I can help in bringing Machine Learning to the forefront of Rust 🦀🦾
+#### I love the world of Deep Learning and data science, along with all of the ramifications it holds for the future of our world. I believe that bringing Rust to the forefront of the ML revolution is how we truly revolutionize the applications of this technology 🦀🦾
 
 #### Currently, I am working on a Rust crate named Unda 🌊. Unda aims to bring the ease of the Tensorflow and Keras library into the world of Rust without being a wrapper library. With Rust's low level performance and high level zero-cost abstractions, I believe that Rust truly can become the ML Language of the future 🧠⚙️
 
