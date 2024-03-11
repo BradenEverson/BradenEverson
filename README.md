@@ -1,5 +1,5 @@
 ## I'm Braden Everson
-### Computer Science and ML undergraduate at the Milwaukee School of Engineering(MSOE) with a strong emphasis in Machine Learning and the Rust Programming language
+### Computer Science and ML undergraduate at the Milwaukee School of Engineering(MSOE) with a strong emphasis in Machine Learning and the Rust Programming language.
 
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
