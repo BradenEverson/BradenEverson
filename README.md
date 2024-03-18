@@ -12,7 +12,7 @@
 
 #### I love the world of Deep Learning and data science, along with all of the ramifications it holds for the future of our world. I believe that bringing Rust to the forefront of the ML revolution is how we truly revolutionize the applications of this technology 🦀🦾
 
-#### Currently, I am working on a Rust crate named Unda 🌊. Unda aims to bring the ease of the Tensorflow and Keras library into the world of Rust without being a wrapper library. With Rust's low level performance and high level zero-cost abstractions, I believe that Rust truly can become the ML Language of the future 🧠⚙️
+#### Currently, I am working on a Rust crate named Unda 🌊. Unda aims to bring the ease of the Tensorflow and Keras library into the world of Rust without being a wrapper library 🧠⚙️
 
 
 #### [Check out Unda!](https://crates.io/crates/unda)
