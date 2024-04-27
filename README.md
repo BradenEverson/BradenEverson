@@ -14,7 +14,7 @@
 
 #### Currently, I am working on a Rust crate named Unda 🌊. Unda aims to bring the ease of the Tensorflow and Keras library into the world of Rust without being a wrapper library 🧠⚙️
 
-#### Unda has ranked in 4th place for the ![https://www.msoe.edu/rosie-challenge/](MSOE ROSIE Supercomputer Challenge)!!
+#### Unda has ranked in 4th place for the !(https://www.msoe.edu/rosie-challenge/)(MSOE ROSIE Supercomputer Challenge)!!
 
 
 #### [Check out Unda!](https://crates.io/crates/unda)
