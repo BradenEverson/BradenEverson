@@ -1,5 +1,5 @@
 ## I'm Braden Everson 🌱🫀⚙️
-### Computer Science and Machine Learning undergrad at the Milwaukee School of Engineering(MSOE) with a strong emphasis in Machine Learning and the Rust Programming language
+### Computer Science and Machine Learning student at the Milwaukee School of Engineering(MSOE) with a strong emphasis in Machine Learning and the Rust Programming language
 
 ### **Current Position**: Software Intern at [Cognex](https://www.cognex.com/) 👁️‍🗨️⚙️🦀
 
