@@ -10,9 +10,9 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ![Braden Everson's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradenEverson&theme=prussian)
+#### I am fascinated by the world of Deep Learning along with all of the ramifications it holds for the future of our world. I believe that bringing Rust to the forefront of the ML revolution is how we truly revolutionize the applications of this technology 🦀🦾
 
 ### Projects:
-#### I am fascinated by the world of Deep Learning along with all of the ramifications it holds for the future of our world. I believe that bringing Rust to the forefront of the ML revolution is how we truly revolutionize the applications of this technology 🦀🦾
 
 #### Currently, I am working on a Rust crate named Unda 🌊. Unda aims to bring the ease of the Tensorflow and Keras library into the world of Rust without being a wrapper library 🧠⚙️
 
