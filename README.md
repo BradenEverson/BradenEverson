@@ -10,11 +10,11 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ![Braden Everson's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradenEverson&theme=prussian)
-#### I am fascinated by the world of Deep Learning along with all of the ramifications it holds for the future of our world. I believe that bringing Rust to the forefront of the ML revolution is how we truly revolutionize the applications of this technology 🦀🦾
+#### I am fascinated by the world of Embedded Systems, Rust, Machine Learning and the unions that these three topics hold. I believe that Rust can serve not only as the future of machine learning, but its embedded runtimes can bring new avenues and use cases for Machine Learning in embedded environments 🦀🦾
 
 ### Projects:
 
-#### Currently, I am working on a Rust crate named Unda 🌊. Unda aims to bring the ease of the Tensorflow and Keras library into the world of Rust without being a wrapper library 🧠⚙️
+#### Currently, I am working on a Rust crate named Unda 🌊. Unda aims to bring accelerated Machine Learning through the XLA library into Rust. Ensuring robust types and blazingly fast model training 🧠⚙️
 
 #### Unda has ranked in 4th place for the [MSOE Rosie Supercomputer Challenge](https://www.msoe.edu/rosie-challenge/)!
 
