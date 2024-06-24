@@ -18,10 +18,10 @@
 
 #### [Check out Unda!](https://crates.io/crates/unda)
 
-#### [My website](https://bradeneverson.github.io)
-
 ### Currently Working On:
 
-* Unda - accelerated deep learning in Rust 🧠⚙️
+* Unda - Accelerated deep learning in Rust 🧠⚙️
 * GeneZip - Small Rust CLI for compressing raw genome data using Huffman Trees and Run-baased encoding 🫀📉
 * SiteSmith - Rust CLI for automatic personal website generation 🛠️
+
+#### [My website](https://bradeneverson.github.io)
