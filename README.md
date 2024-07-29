@@ -4,7 +4,6 @@
 ### **Current Position**: Embedded Software Intern at [Cognex Corporation](https://www.cognex.com/)! 👁️‍🗨️⚙️🦀 Investigating Rust integrations into Cognex Firmware
 
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
-![Zig](https://img.shields.io/badge/-Zig-333333?style=flat&logo=zig)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 
 ![Braden Everson's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradenEverson&theme=prussian)
