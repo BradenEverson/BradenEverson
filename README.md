@@ -3,9 +3,6 @@
 
 ### **Current Position**: Embedded Software Intern at [Cognex Corporation](https://www.cognex.com/)! 👁️‍🗨️⚙️🦀 Investigating Rust integrations into Cognex Firmware
 
-![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-
 ![Braden Everson's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradenEverson&theme=prussian)
 #### I am fascinated by the world of Embedded Systems, Rust, Machine Learning and the unions that these three topics hold. I believe that Rust can serve not only as the future of machine learning, but its embedded runtimes can bring new avenues and use cases for Machine Learning in embedded environments 🦀🦾
 
