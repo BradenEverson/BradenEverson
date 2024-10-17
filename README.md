@@ -3,6 +3,6 @@
 
 ![Braden Everson's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradenEverson&theme=prussian)
 
-#### **Current Position**: Embedded Software Intern at [Cognex Corporation](https://www.cognex.com/)! 👁️‍🗨️⚙️🦀 Developing Rust integrations into Cognex Firmware
+#### **Current Position**: Embedded Software Intern at [Cognex Corporation](https://www.cognex.com/)! 👁️‍🗨️⚙️🦀 Developing Rust integrations into mission critical Cognex Firmware
 
 #### [Check out my website](https://bradeneverson.github.io)
