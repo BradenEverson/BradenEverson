@@ -1,5 +1,5 @@
 ## Hi :D 🌱🦀
-#### I'm a Computer Science undergrad at the Milwaukee School of Engineering(MSOE) with an interest in Rust, systems programming, machine learning and embedded systems
+#### I'm a Computer Science undergrad at the Milwaukee School of Engineering(MSOE) with an interest in making pointless programming languages, systems programming, machine learning and embedded
 
 ![Braden Everson's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradenEverson&theme=monokai)
 
