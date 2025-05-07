@@ -1,6 +1,4 @@
-## Hi :D 🌱🦀
-#### I'm a Computer Science undergrad at the Milwaukee School of Engineering(MSOE) with an interest in making pointless programming languages, systems programming, machine learning and embedded
+## Hi 🌱🦀
+#### I like to make stuff. That's about it. Really into Rust, C and Zig, but really anything that lets me make something that does something cool makes me happy
 
 ![Braden Everson's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradenEverson&theme=monokai)
-
-#### **Current Position**: Embedded Software Intern at [Cognex Corporation](https://www.cognex.com/)! 👁️‍🗨️⚙️🦀 Developing Rust integrations into mission critical Cognex Firmware
