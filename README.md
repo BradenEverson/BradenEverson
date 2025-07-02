@@ -5,4 +5,4 @@ I'm an Undergraduate Computer Science student going for a Computer Engineering m
 
 **Current Position**: Firmware Engineering Intern at Milwaukee Tool working with new BLE features including Periodic Advertising and Isochronous Streams in MT firmware
 
-**Currently Working on**: A super small 3D printer RTOS built in Zig on top of Stm32 vendor code and FreeRTOS
+**Currently Working on**: A super small 3D printer OS built in Zig on top of Stm32 vendor code and FreeRTOS
