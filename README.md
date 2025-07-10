@@ -3,6 +3,6 @@ I'm an Undergraduate Computer Science student going for a Computer Engineering m
 
 ![Braden Everson's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradenEverson&theme=monokai)
 
-**Current Position**: Firmware Engineering Intern at Milwaukee Tool working with new BLE features including Periodic Advertising and Isochronous Streams in MT firmware
+**Current Position**: Firmware Engineering Intern at Milwaukee Tool working with new BLE features!
 
 **Currently Working on**: A super small 3D printer OS built in Zig on top of Stm32 vendor code and FreeRTOS
