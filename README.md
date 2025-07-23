@@ -5,4 +5,4 @@ I'm an Undergraduate Computer Science student going for a Computer Engineering m
 
 **Current Position**: Firmware Engineering Intern at Milwaukee Tool working with new BLE features!
 
-**Currently Working on**: A Chip8 Emulator that targets Stm32 :)
+**Currently Working on**: A Chip8 Emulator that targets Stm32 and WASM :)
